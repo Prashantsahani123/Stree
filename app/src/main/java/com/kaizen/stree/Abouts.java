@@ -33,7 +33,7 @@ public class Abouts extends AppCompatActivity {
         });
 
 
-
+//last update
         inner.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
