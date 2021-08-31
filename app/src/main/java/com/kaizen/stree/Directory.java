@@ -99,8 +99,7 @@ public class Directory extends AppCompatActivity {
 
 
 
-
-
+//prashant
 
      if(databasehelper.getcount() > 0)
 
